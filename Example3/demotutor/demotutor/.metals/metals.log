@@ -1,0 +1,184 @@
+2023.11.05 07:58:40 INFO  Started: Metals version 1.1.0 in folders 'C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor' for client Visual Studio Code 1.74.2.[0m
+2023.11.05 07:58:41 WARN  Build server is not auto-connectable.[0m
+2023.11.05 07:58:41 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\DemotutorApplication.java[0m
+2023.11.05 07:59:00 INFO  no build target found for C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\DemotutorApplication.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+Nov 05, 2023 7:59:02 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-02-365.md
+2023.11.05 07:59:38 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+2023.11.05 07:59:38 WARN  Running javac-semanticdb failed for file:///C:/Users/USer/Desktop1/TutorExample/Example3/demotutor/demotutor/src/main/java/com/example/demotutor/RestController/HelloController.java. Output:
+[0m
+Nov 05, 2023 7:59:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-38-976.md
+Nov 05, 2023 7:59:39 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-39-553.md
+2023.11.05 07:59:39 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 7:59:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-42-258.md
+Nov 05, 2023 7:59:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-42-739.md
+2023.11.05 07:59:45 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+2023.11.05 07:59:45 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 7:59:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-46-040.md
+2023.11.05 07:59:46 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 7:59:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-46-295.md
+Nov 05, 2023 7:59:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-46-493.md
+Nov 05, 2023 7:59:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-47-791.md
+Nov 05, 2023 7:59:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-53-677.md
+Nov 05, 2023 7:59:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_07-59-54-039.md
+Nov 05, 2023 8:02:10 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-10-537.md
+Nov 05, 2023 8:02:11 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-11-539.md
+Nov 05, 2023 8:02:12 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-12-726.md
+2023.11.05 08:02:14 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:02:14 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-14-528.md
+Nov 05, 2023 8:02:15 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-15-058.md
+2023.11.05 08:02:36 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+2023.11.05 08:02:36 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:02:36 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-36-967.md
+2023.11.05 08:02:37 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:02:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-37-176.md
+Nov 05, 2023 8:02:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-37-321.md
+Nov 05, 2023 8:02:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-38-464.md
+Nov 05, 2023 8:02:43 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-43-348.md
+Nov 05, 2023 8:02:45 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-45-420.md
+Nov 05, 2023 8:02:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-46-232.md
+Nov 05, 2023 8:02:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-46-345.md
+2023.11.05 08:02:46 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:02:46 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-46-771.md
+Nov 05, 2023 8:02:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-47-006.md
+Nov 05, 2023 8:02:47 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-02-47-264.md
+Nov 05, 2023 8:03:22 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-22-925.md
+Nov 05, 2023 8:03:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-23-211.md
+Nov 05, 2023 8:03:23 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-23-508.md
+Nov 05, 2023 8:03:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-28-603.md
+2023.11.05 08:03:28 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:03:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-28-876.md
+Nov 05, 2023 8:03:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-28-973.md
+Nov 05, 2023 8:03:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-29-927.md
+Nov 05, 2023 8:03:30 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-30-561.md
+2023.11.05 08:03:30 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:03:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-31-277.md
+Nov 05, 2023 8:03:31 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-31-654.md
+Nov 05, 2023 8:03:33 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-33-875.md
+2023.11.05 08:03:33 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:03:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-34-095.md
+Nov 05, 2023 8:03:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-34-334.md
+Nov 05, 2023 8:03:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-34-571.md
+Nov 05, 2023 8:03:34 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-34-978.md
+2023.11.05 08:03:37 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:03:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-37-689.md
+Nov 05, 2023 8:03:37 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-37-809.md
+Nov 05, 2023 8:03:38 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-38-217.md
+2023.11.05 08:03:41 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+Nov 05, 2023 8:03:41 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-41-730.md
+Nov 05, 2023 8:03:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-42-075.md
+Nov 05, 2023 8:03:42 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-03-42-306.md
+2023.11.05 08:04:24 INFO  Shutting down server[0m
+2023.11.05 08:04:24 INFO  shutting down Metals[0m
+2023.11.05 08:04:24 INFO  Exiting server[0m
+2023.11.05 08:05:42 INFO  Started: Metals version 1.1.0 in folders 'C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor' for client Visual Studio Code 1.74.2.[0m
+2023.11.05 08:05:44 WARN  Build server is not auto-connectable.[0m
+2023.11.05 08:05:44 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\Controller\HelloWorldController.java[0m
+2023.11.05 08:05:44 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\RestController\HelloController.java[0m
+2023.11.05 08:05:50 INFO  no build target found for C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\Controller\HelloWorldController.java. Using presentation compiler with project's scala-library version: 3.3.1[0m
+Nov 05, 2023 8:05:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2023.11.05 08:05:50 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\Controller\HelloWorldController.java[0m
+Nov 05, 2023 8:05:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3
+Nov 05, 2023 8:05:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Nov 05, 2023 8:05:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+Nov 05, 2023 8:05:50 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Nov 05, 2023 8:05:51 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-05-51-988.md
+Nov 05, 2023 8:05:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-05-52-436.md
+Nov 05, 2023 8:05:52 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-05-52-544.md
+Nov 05, 2023 8:05:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-05-54-702.md
+Nov 05, 2023 8:05:54 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-05-54-771.md
+2023.11.05 08:05:58 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\Controller\HelloWorldController.java[0m
+2023.11.05 08:05:58 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\Controller\HelloWorldController.java[0m
+Nov 05, 2023 8:05:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-05-59-498.md
+Nov 05, 2023 8:05:59 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-05-59-724.md
+Nov 05, 2023 8:06:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-01-791.md
+Nov 05, 2023 8:06:01 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-01-949.md
+2023.11.05 08:06:04 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\Controller\WebController.java[0m
+Nov 05, 2023 8:06:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-05-218.md
+Nov 05, 2023 8:06:05 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-05-706.md
+2023.11.05 08:06:06 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\Controller\WebController.java[0m
+Nov 05, 2023 8:06:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-06-320.md
+Nov 05, 2023 8:06:06 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-06-694.md
+Nov 05, 2023 8:06:07 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-07-073.md
+Nov 05, 2023 8:06:17 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-17-857.md
+Nov 05, 2023 8:06:19 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-19-176.md
+2023.11.05 08:06:28 WARN  no build target for: C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\src\main\java\com\example\demotutor\DemotutorApplication.java[0m
+Nov 05, 2023 8:06:28 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-28-809.md
+Nov 05, 2023 8:06:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-29-191.md
+Nov 05, 2023 8:06:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-29-379.md
+Nov 05, 2023 8:06:29 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\USer\Desktop1\TutorExample\Example3\demotutor\demotutor\.metals\.reports\metals-full\2023-11-05\r_compiler-error_08-06-29-496.md
+2023.11.05 08:06:51 INFO  Shutting down server[0m
+2023.11.05 08:06:51 INFO  shutting down Metals[0m
+2023.11.05 08:06:51 INFO  Exiting server[0m
